@@ -35,6 +35,3 @@ it also Adds weather content to the left side of the taskbar if
 the taskbar is aligned in the center. When you hover over the 
 weather, the Widgets panel will appear on the left side of the 
 screen and will disappear when you stop hovering over the area.
-
-
-      
