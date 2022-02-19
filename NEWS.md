@@ -2,6 +2,23 @@
 19 Feb 2022                                                                                               Issue #2
 
 
+How to Disable Windows Parental Control
+
+1. type services in the search bar
+2. search for Family Options
+3. select properties from the context menu
+4. set start to disabled
+5. Yay!
+----------------------------------------------------------------------------------------------------------------------------------
+How to Spoof MAC
+
+1. Go to View network connections in control panel
+2. select properties after right clicking Wifi
+3. click configure
+4. go to advanced
+5. click network address
+6. add your own MAC (eg. 000000000000)
+----------------------------------------------------------------------------------------------------------------------------------
 Windows 11 area unresponsive bug
 
 in windows 11, sometimes, when you hover over the search box, a area of the screen
