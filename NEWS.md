@@ -2,6 +2,12 @@
 19 Feb 2022                                                                                               Issue #2
 
 
+Windows 11 area unresponsive bug
+
+in windows 11, sometimes, when you hover over the search box, a area of the screen
+is unresponsive to clicks. to fix this bug, you need to kill explorer by typing taskkill /f explorer.exe and 
+pressing enter. after that type start explorer and press enter again to execute the command.
+----------------------------------------------------------------------------------------------------------------------------------
 Is Zoom Safe?
 
 The popular video calling application for normalfags has some serious security and privacy concerns like
