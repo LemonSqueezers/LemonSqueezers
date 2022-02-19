@@ -1,10 +1,13 @@
                                           The Lemon Squeezers Journal
-19 Feb 2022                                                                                               Issue #1
+19 Feb 2022                                                                                               Issue #2
 
 
 Is Zoom Safe?
 
-
+The popular video calling application for normalfags has some serious security and privacy concerns like
+sharing user data with the CCP, lying about end to end encryption, faking a system popup
+in the MacOS version and generally being malware.
+----------------------------------------------------------------------------------------------------------------------------------
 Tor 11.0.6 Released in the middle of Russia's censorship attacks 
 
 This version includes bug fixes and important security updates.  
