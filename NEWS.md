@@ -60,3 +60,9 @@ This build adds the ability to share cookies between MS Edge and MS Edge IE Mode
 monitors when you connect other monitors to the device. it also Adds weather content to the left side of the taskbar if 
 the taskbar is aligned in the center. When you hover over the weather icon, the Widgets panel will appear on the left side of the 
 screen and will disappear when you stop hovering over the area. most of the update is just bug fixes.
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+use Tor: torproject.org/download
