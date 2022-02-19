@@ -1,5 +1,8 @@
                                           The Lemon Squeezers Journal
-18 Feb 2022                                                                                               Issue #1
+19 Feb 2022                                                                                               Issue #1
+
+
+Is Zoom Safe?
 
 
 Tor 11.0.6 Released in the middle of Russia's censorship attacks 
@@ -9,7 +12,9 @@ Tor also switched to the latest version of Go (1.16.3) for Go related projects.
 ----------------------------------------------------------------------------------------------------------------------------------
 Arti 0.0.4 Released                                              
 
-The Tor Implementation in Rust is scheduled to launch in March.  
+The Tor Implementation in Rust is scheduled to launch in March. This will not replace the main 
+implementation in C but we see it as the future says Tor Project. Up until the launch, the betas will break
+backward compatibility between the betas.
 ----------------------------------------------------------------------------------------------------------------------------------
 Windows 11 gets its first major update    
 
@@ -19,8 +24,9 @@ The update is available for Stable channels.
 Tor Bridge campaign ends                  
 
 After starting in November, the campaign ended on Feb 5th.
-"not only did we achieve our modest goal, but we also reverted the trend of declining bridges in the network" says Tor. The 
-Bridge Count is at 1,270, much more than the 200 target. The network has also doubled in quantity of relays.
+"not only did we achieve our modest goal, but we also reverted the trend of declining bridges in the network" says Tor. The new
+Bridge Count is at 1,270, much more than the 200 target and The 200 Target was reached in 10 days.
+The network has also doubled in quantity of relays.
 ----------------------------------------------------------------------------------------------------------------------------------
 Windows 11 Build 22000.527 released to beta
 
