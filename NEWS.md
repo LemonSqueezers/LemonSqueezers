@@ -2,6 +2,11 @@
 19 Feb 2022                                                                                               Issue #2
 
 
+Tor 11.5a4 Alpha released
+
+on 18 Feb, Tor released a update which Updated Go to 1.17.6, Pick up obfsproxy 0.0.12. 
+most of the update were bug fixes.
+----------------------------------------------------------------------------------------------------------------------------------
 How to Disable Windows Parental Control
 
 1. type services in the search bar
