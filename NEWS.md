@@ -2,6 +2,12 @@
 19 Feb 2022                                                                                               Issue #2
 
 
+Hacker group Corvid founded
+
+A hacker collective was founded on 9 Feb, according to the founder,
+"start a hacking/programming collective" and "If anyone has any interest in joining Email me at crow16815291@protonmail.com"
+The founder (crow16815291) made the group on Nova BBS's hacking board/newsgroup. the group's intentions are unknown. 
+----------------------------------------------------------------------------------------------------------------------------------
 Tor 11.5a4 Alpha released
 
 on 18 Feb, Tor released a update which Updated Go to 1.17.6, Pick up obfsproxy 0.0.12. 
