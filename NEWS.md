@@ -1,6 +1,11 @@
                                           The Lemon Squeezers Journal
-19 Feb 2022                                                                                               Issue #2
+27 Feb 2022                                                                                                              Issue #3
 
+
+Russia-Ukraine war causes crypto stocks to fall
+
+almost all cryptocurrencies have fallen in value as Russians invade in Kyiv. only 17 cryptos has increased in value
+----------------------------------------------------------------------------------------------------------------------------------
 
 Hacker group Corvid founded
 
