@@ -2,6 +2,10 @@
 27 Feb 2022                                                                                                              Issue #3
 
 
+What happened to Windows 9?
+
+Microsoft says that 7 ate 9 so they released 10 instead
+----------------------------------------------------------------------------------------------------------------------------------
 Russia-Ukraine war causes crypto stocks to fall
 
 almost all cryptocurrencies have fallen in value as Russians invade in Kyiv. only 17 cryptos has increased in value
