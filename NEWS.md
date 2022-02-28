@@ -7,9 +7,10 @@ New Windows 11 build 22563
 The build is available is ARM. Not every build microsoft releases will have
 as many new features as last week’s build. However, this build includes a few new features for Users
 to try out as Microsoft rolls them out including a tablet-optimized taskbar experience, some
-improvements to content in Widgets, and a new group policy for IT admins in education which may
-be bad for kids. Microsoft also have some notable changes and improvements in this build including improvements
-for File Explorer, support for Microsoft Edge tabs in snap assist and ALT + TAB, and support for Emoji 14.0.
+improvements to content in Widgets, and a new Notifications group policy for IT admins in education which may
+be bad for under-age social media kids. Microsoft also have some notable changes and improvements in this b
+uild including improvements for File Explorer, support for Microsoft Edge tabs in snap 
+assist and ALT + TAB, and support for Emoji 14.0.
 "with bringing together the widgets and news feed experiences as a dynamic blended feed containing 
 both widgets and news content. This should make it easier for you to discover and engage with new widgets
 and news content through your feed. With a dynamic feed there’s less of a burden on you to curate the canvas 
