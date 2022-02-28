@@ -1,7 +1,15 @@
                                           The Lemon Squeezers Journal
-27 Feb 2022                                                                                                              Issue #3
+27 Feb 2022                                                                                                              Issue #4
 
 
+Anonymous Intercepts russian military communications
+
+Russian military communications got intercepted on 
+the 26th of February at 4220 KHz USB.
+
+Sources:
+https://twitter.com/DeepNetAnon/status/1497433491105062914
+----------------------------------------------------------------------------------------------------------------------------------
 Anonymous declares war on Russia
 
 The hacker group anonymous has declared war on Russia. So far they have
