@@ -2,6 +2,13 @@
 27 Feb 2022                                                                                                              Issue #4
 
 
+why is the amount of blue candles in the world increasing these days
+
+According to Chinese culture, blue candle's lighter will seek harmony, truth, creativity, and guidance.
+
+Sources
+https://chi-nese.com/everything-you-need-to-know-about-spiritual-candle-colors/
+Idea: poatato on Discord
 New Windows 11 build 22563
 
 The build is available is ARM. Not every build microsoft releases will have
