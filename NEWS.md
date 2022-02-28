@@ -14,9 +14,10 @@ writing and Russian TV got hacked.
 sources: 
 Seytonic on youtube
 @AnonTV on Twitter
+----------------------------------------------------------------------------------------------------------------------------------
 What happened to Windows 9?
 
-Microsoft says that 7 ate 9 so they released 10 instead
+Microsoft says that 7 ate 9 so they released 10 instead said a representative
 ----------------------------------------------------------------------------------------------------------------------------------
 Russia-Ukraine war causes crypto stocks to fall
 
