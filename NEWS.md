@@ -2,6 +2,14 @@
 27 Feb 2022                                                                                                              Issue #3
 
 
+Anonymous declares war on Russia
+
+The hacker group anonymous has declared war on Russia. So far they have
+hacked military installations in Russia and leaked emails and passwords.
+
+sources: 
+Seytonic on youtube
+@AnonTV on Twitter
 What happened to Windows 9?
 
 Microsoft says that 7 ate 9 so they released 10 instead
