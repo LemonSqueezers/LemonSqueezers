@@ -5,7 +5,11 @@
 Anonymous declares war on Russia
 
 The hacker group anonymous has declared war on Russia. So far they have
-hacked military installations in Russia and leaked emails and passwords.
+hacked military installations in Russia and leaked emails and passwords, mess with 
+maritime traffic data and make it look like Putin's yacht had crashed into
+Ukraine's snake island, then changed its destination to Hell on Saturday 
+and take down the Russian governments website down 11 hours ago at time of 
+writing and Russian TV got hacked.
 
 sources: 
 Seytonic on youtube
