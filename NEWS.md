@@ -124,3 +124,8 @@ screen and will disappear when you stop hovering over the area. most of the upda
 
 
 use Tor: torproject.org/download
+
+----------------------------------------------------------------------------------------------------------------------------------
+(c) Copyright 2022, Spicycake
+
+Copy any text on this website as long as you credit.
