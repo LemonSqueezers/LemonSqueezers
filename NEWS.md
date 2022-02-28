@@ -2,6 +2,32 @@
 27 Feb 2022                                                                                                              Issue #4
 
 
+New Windows 11 build 22563
+
+The build is available is ARM. Not every build microsoft releases will have
+as many new features as last week’s build. However, this build includes a few new features for Users
+to try out as Microsoft rolls them out including a tablet-optimized taskbar experience, some
+improvements to content in Widgets, and a new group policy for IT admins in education which may
+be bad for kids. Microsoft also have some notable changes and improvements in this build including improvements
+for File Explorer, support for Microsoft Edge tabs in snap assist and ALT + TAB, and support for Emoji 14.0.
+"with bringing together the widgets and news feed experiences as a dynamic blended feed containing 
+both widgets and news content. This should make it easier for you to discover and engage with new widgets
+and news content through your feed. With a dynamic feed there’s less of a burden on you to curate the canvas 
+on your own, but you’ll still be able to pin your favorite Widgets to the top if you want." says Microsoft
+
+Sources
+
+https://blogs.windows.com/windows-insider/2022/02/24/announcing-windows-11-insider-preview-build-22563/
+----------------------------------------------------------------------------------------------------------------------------------
+What happened to Windows 9?
+
+Microsoft says that 7 ate 9 so they released 10 instead said a representative 
+----------------------------------------------------------------------------------------------------------------------------------
+Russia-Ukraine war causes crypto stocks to fall
+
+almost all cryptocurrencies have fallen in value as Russians invade in Kyiv. only 17 cryptos has increased in value
+----------------------------------------------------------------------------------------------------------------------------------
+
 Anonymous Intercepts russian military communications
 
 Russian military communications got intercepted on 
@@ -23,15 +49,6 @@ sources:
 Seytonic on youtube
 @AnonTV on Twitter
 ----------------------------------------------------------------------------------------------------------------------------------
-What happened to Windows 9?
-
-Microsoft says that 7 ate 9 so they released 10 instead said a representative
-----------------------------------------------------------------------------------------------------------------------------------
-Russia-Ukraine war causes crypto stocks to fall
-
-almost all cryptocurrencies have fallen in value as Russians invade in Kyiv. only 17 cryptos has increased in value
-----------------------------------------------------------------------------------------------------------------------------------
-
 Hacker group Corvid founded
 
 A hacker collective was founded on 9 Feb, according to the founder,
