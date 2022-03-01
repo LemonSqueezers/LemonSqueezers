@@ -2,6 +2,63 @@
 1 Mar 2022                                                                                                              Issue #5
 
 
+Hacker group Modified Elephant APT found injecting 'evidence' into computers
+
+in Sept. 2021, A hacker group named EGoManiac wasplanting incriminating evidence 
+on the systems of journalists to justify arrests by the Turkish National Police. A similiar 
+hacker group called ModifiedElephant APT does similiar things.
+The objective of ModifiedElephant is long-term surveillance that at times concludes with the 
+delivery of ‘evidence’—files that incriminate the target in specific crimes—prior to conveniently coordinated 
+arrests. In the last decade, they have targeted Activists, human rights defenders, journalists, academics, 
+and law professionals. They send phishing emails to the victims. Their primary delivery mechanism is malicious 
+Microsoft Office document files weaponized to deliver the malware of choice at the time. 
+The specific payloads changed over the years and across different targets. However, some notable trends remain.
+
+In mid-2013, the actor used phishing emails containing executable file attachments with fake double extensions (filename.pdf.exe).
+After 2015, the actor moved on to less obvious files containing publicly available exploits, such as .doc, .pps, 
+.docx, .rar, and password protected .rar files. These attempts involved legitimate lure documents in .pdf, .docx, and 
+.mht formats to captivate the target’s attention while also executing malware.
+In 2019 phishing campaigns, ModifiedElephant operators also took the approach of providing links to files hosted 
+externally for manual download and execution by the target.
+As first publicly noted by Amnesty in reference to a subset of this activity, the attacker also made use of 
+large .rar archives (up to 300MB), potentially in an attempt to bypass detection.
+Observed lure documents repeatedly made use of CVE-2012-0158, CVE-2014-1761, CVE-2013-3906,
+CVE-2015-1641 exploits to drop and execute their malware of choice.
+The spearphishing emails and lure attachments are titled and generally themed around topics relevant to the 
+target, such as activism news and groups, global and local events on climate change, politics, 
+and public service. A public deconstruction of two seperate 2014 phishing emails was shared by Arsenal Consulting in early 2021.
+ModifiedElephant continually made use of free email service providers, like Gmail and Yahoo, to conduct their campaigns.
+The phishing emails take many approaches to gain the appearance of legitimacy. This includes fake body content 
+with a forwarding history containing long lists of recipients, original email recipient lists with many seemingly 
+fake accounts, or simply resending their malware multiple times using new emails or lure documents. Notably, in specific 
+attacks, the actor would be particularly persistent and attempt to compromise the same individuals multiple times in a single day.
+
+By reviewing a timeline of attacker activity, we can observe clear trends as the attacker(s) rotate infrastructure over the years.
+The malware most used by ModifiedElephant is unsophisticated and downright mundane, and yet it has proven sufficient for their 
+objectives–obtaining remote access and unrestricted control of victim machines. The primary malware families deployed were NetWire 
+and DarkComet remote access trojans (RATs). Both of these RATs are publicly available, and have a long history of abuse by threat 
+actors across the spectrum of skill and capability.
+
+One particular activity revolves around the file Ltr_1804_to_cc.pdf, which contains details of an assassination plot 
+against Prime Minister Modi. A forensic report by Arsenal Consulting showed that this file, one of the more incriminating pieces of 
+evidence obtained by the police, was one of many files delivered via a NetWire RAT remote session that we associate with ModifiedElephant. 
+Further analysis showed how ModifiedElephant was performing nearly identical evidence creation and organization across multiple unrelated 
+victim systems within roughly fifteen minutes of each other.
+ModifiedElephant also sent multiple phishing emails containing both NetWire and Android malware payloads at the same time. 
+The Android malware is an unidentified commodity trojan delivered as an APK file (0330921c85d582deb2b77a4dc53c78b3).
+
+While the Android trojan bears marks of being designed for broader cybercrime, its delivery at the same time as 
+ModifiedElephant Netwire samples indicates that the same attacker was attempting to get full coverage of the target on 
+both endpoint and mobile. The full report contains further details about the Android Trojan.
+Attributing an attacker like ModifiedElephant is an interesting challenge. At this time, we possess significant evidence of what 
+the attacker has done over the past decade, a unique look into who they’ve targeted, and a strong understanding of their technical objectives.
+
+We observe that ModifiedElephant activity aligns sharply with Indian state interests and that there is an observable correlation 
+between ModifiedElephant attacks and the arrests of individuals in controversial, politically-charged cases.
+
+Sources:
+https://www.sentinelone.com/labs/modifiedelephant-apt-and-a-decade-of-fabricating-evidence/
+----------------------------------------------------------------------------------------------------------------------------------
 The Cake Story
 
 owner: yeah! this cake is the best here!
