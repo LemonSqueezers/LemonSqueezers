@@ -2,6 +2,17 @@
 1 Mar 2022                                                                                                              Issue #5
 
 
+Debunking the Dark Web
+
+Many people think that the dark web is huge, when actually there are only 60,000 websites there.
+other lies and myths:
+1. It is full of drug markets
+most sites there are mundane.
+2. There are mystery boxes
+No. they are all scams.
+3. It is illegal
+It depends on where you are and what you are viewing.
+----------------------------------------------------------------------------------------------------------------------------------
 Hacker group Modified Elephant APT found injecting 'evidence' into computers
 
 in Sept. 2021, A hacker group named EGoManiac wasplanting incriminating evidence 
