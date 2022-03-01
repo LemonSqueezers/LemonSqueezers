@@ -2,6 +2,25 @@
 27 Feb 2022                                                                                                              Issue #4
 
 
+The Cake Story
+
+owner: yeah! this cake is the best here!
+cashier: be careful, he has a gun
+*owner ignores warning*
+*cake put in freezer*
+owner: lets eat it!
+*cake gets half-eaten*
+owner: WHAT?!
+*cake runs inside fridge*
+*cake eats another cake*
+*cake pulls out gun*
+owner: RUN!
+*owner gets killed*
+cake: yay! another victim!
+*cake eats owner-guy*
+
+Moral of the Story: do not let a cake have a gun
+----------------------------------------------------------------------------------------------------------------------------------
 Steam deck is here... and its bad
 
 1-3-2022: From the terrible compatibility to the fact that it costs 30117.28 Rupees here 
