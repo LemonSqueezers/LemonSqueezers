@@ -2,6 +2,15 @@
 27 Feb 2022                                                                                                              Issue #4
 
 
+What are the uses of cocoa beans in our daily life?
+
+Cocoa beans are used to make coffee and chocolate. But high amounts 
+of coffee cause insomnia and chocolate causes diabetes. So drink at maximum 2 cups of coffee
+and eat chocolate once per week.
+Sources:
+https://kidadl.com/fun-facts/learn-all-about-amazing-cocoa-beans-and-its-various-uses
+Idea: Poatato
+----------------------------------------------------------------------------------------------------------------------------------
 why is the amount of blue candles in the world increasing these days
 
 According to Chinese culture, blue candle's lighter will seek harmony, truth, creativity, and guidance.
