@@ -21,7 +21,7 @@ Idea: poatato on Discord
 ----------------------------------------------------------------------------------------------------------------------------------
 Suggest a Idea!
 
-If you have a idea DM Spcycake2 #4353 or email me at cortex96@tutanota.com or buttertheidiot@gmail.com.
+If you have a idea DM Spcycake2 #4353, in the discussions section of the repo. or email me at cortex96@tutanota.com or buttertheidiot@gmail.com.
 ----------------------------------------------------------------------------------------------------------------------------------
 New Windows 11 build 22563
 
@@ -104,50 +104,13 @@ Windows 11 area unresponsive bug
 in windows 11, sometimes, when you hover over the search box, a area of the screen
 is unresponsive to clicks. to fix this bug, you need to kill explorer by typing taskkill /f explorer.exe and 
 pressing enter. after that type start explorer and press enter again to execute the command.
-----------------------------------------------------------------------------------------------------------------------------------
-Is Zoom Safe?
 
-The popular video calling application for normalfags has some serious security and privacy concerns like
-sharing user data with the CCP, lying about end to end encryption, faking a system popup
-in the MacOS version and generally being malware.
-----------------------------------------------------------------------------------------------------------------------------------
-Tor 11.0.6 Released in the middle of Russia's censorship attacks 
-
-This version includes bug fixes and important security updates. snowflake has been fixed and unblocked in 
-Russia. Tor also switched to the latest version of Go (1.16.3) for Go related projects.                                                 
-----------------------------------------------------------------------------------------------------------------------------------
-Arti 0.0.4 Released                                              
-
-The Tor Implementation in Rust is scheduled to launch in March. This will not replace the main 
-implementation in C but we see it as the future says Tor Project. Up until the launch, the betas will break
-backward compatibility between the betas.
-----------------------------------------------------------------------------------------------------------------------------------
-Windows 11 gets its first major update    
-
-Windows 11 finally gets support for android apps through WSA and the amazon app store. 
-The update is available for Stable channels.            
-----------------------------------------------------------------------------------------------------------------------------------
-Tor Bridge campaign ends                  
-
-After starting in November, the campaign ended on Feb 5th.
-"not only did we achieve our modest goal, but we also reverted the trend of declining bridges in the network" says Tor. The new
-Bridge Count is at 1,270, much more than the 200 target and The 200 Target was reached in 10 days.
-The network has also doubled in quantity of relays.
-----------------------------------------------------------------------------------------------------------------------------------
-Windows 11 Build 22000.527 released to beta
-
-This build adds the ability to share cookies between MS Edge and MS Edge IE Mode, Adds the clock and date to the taskbars of other 
-monitors when you connect other monitors to the device. it also Adds weather content to the left side of the taskbar if 
-the taskbar is aligned in the center. When you hover over the weather icon, the Widgets panel will appear on the left side of the 
-screen and will disappear when you stop hovering over the area. most of the update is just bug fixes.
-
-
-----------------------------------------------------------------------------------------------------------------------------------
-
-
+Archives: https://raw.githubusercontent.com/FrankEnderman/LemonSqueezers/main/LArchive.old
 use Tor: torproject.org/download
 
 ----------------------------------------------------------------------------------------------------------------------------------
 (c) Copyright 2022, Spicycake
 
 Copy any text on this website as long as you credit.
+
+Github's finest newspaper
