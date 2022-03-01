@@ -2,6 +2,27 @@
 27 Feb 2022                                                                                                              Issue #4
 
 
+Steam deck is here... and its bad
+
+1-3-2022: From the terrible compatibility to the fact that it costs 30117.28 Rupees here 
+in India so most gamers wont be able to play it right now. of course, valve may make 
+it cheaper but it does have another issue: it is not available in most countries
+at launch.
+
+Sources:
+https://www.steamdeck.com/en/
+Linus Tech Tips on YT
+----------------------------------------------------------------------------------------------------------------------------------
+After 2 years, people forgot how to climb trees
+
+after covid began, society and parents told us that we should climb huge trees and fall off. 
+One of the risks of climbing trees is thorns. it may impale you and even contain bacteria. 
+
+Sources: 
+https://www.ashevilletreeremovals.com/the-dangers-of-tree-climbing/
+
+Idea: CarZim on Discord
+----------------------------------------------------------------------------------------------------------------------------------
 What are the uses of cocoa beans in our daily life?
 
 Cocoa beans are used to make coffee and chocolate. But high amounts 
