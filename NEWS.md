@@ -1,10 +1,10 @@
                                           The Lemon Squeezers Journal
-1 Mar 2022                                                                                                              Issue #5
+2 Mar 2022                                                                                                              Issue #6
 
 
 Arti 0.1.0 Released!
 
-Tor's embed'able client in Rust. oday, Tor reached 0.1.0 milestone: this means that Tor now 
+2-3-22: Tor's embed'able client in Rust. oday, Tor reached 0.1.0 milestone: this means that Tor now 
 considers Arti's high-level APIs to be "mostly stable", and ready for experimental embedding in other projects. 
 (Tor doesn't promise no API breakage, but Tor doesn't break your high-level APIs without a good reason.) The 1.0.0 milestone, 
 scheduled for September, will represent an even stronger API commitment.
@@ -21,12 +21,12 @@ https://blog.torproject.org/arti_010_released/
 ----------------------------------------------------------------------------------------------------------------------------------
 LemonSqueezers celebrates International Pancake Day!
 
-Today is Pancake Day, where everyone celebrates the most delicious breakfast
+1-3-22: Today is Pancake Day, where everyone celebrates the most delicious breakfast
 treat!
 ----------------------------------------------------------------------------------------------------------------------------------
 Debunking the Dark Web
 
-Many people think that the dark web is huge, when actually there are only 60,000 websites there.
+1-3-22: Many people think that the dark web is huge, when actually there are only 60,000 websites there.
 other lies and myths:
 1. It is full of drug markets
 most sites there are mundane.
@@ -35,7 +35,7 @@ No. they are all scams.
 3. It is illegal
 It depends on where you are and what you are viewing.
 ----------------------------------------------------------------------------------------------------------------------------------
-Hacker group Modified Elephant APT found injecting 'evidence' into computers
+1-3-22: Hacker group Modified Elephant APT found injecting 'evidence' into computers
 
 in Sept. 2021, A hacker group named EGoManiac wasplanting incriminating evidence 
 on the systems of journalists to justify arrests by the Turkish National Police. A similiar 
@@ -94,7 +94,7 @@ https://www.sentinelone.com/labs/modifiedelephant-apt-and-a-decade-of-fabricatin
 ----------------------------------------------------------------------------------------------------------------------------------
 The Cake Story
 
-owner: yeah! this cake is the best here!
+1-3-22: owner: yeah! this cake is the best here!
 cashier: be careful, he has a gun
 *owner ignores warning*
 *cake put in freezer*
