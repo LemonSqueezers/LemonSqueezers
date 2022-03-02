@@ -4,7 +4,7 @@
 
 Arti 0.1.0 Released!
 
-2-3-22: Tor's embed'able client in Rust. oday, Tor reached 0.1.0 milestone: this means that Tor now 
+2-3-22: Tor's embed'able client in Rust. today, Tor reached 0.1.0 milestone: this means that Tor now 
 considers Arti's high-level APIs to be "mostly stable", and ready for experimental embedding in other projects. 
 (Tor doesn't promise no API breakage, but Tor doesn't break your high-level APIs without a good reason.) The 1.0.0 milestone, 
 scheduled for September, will represent an even stronger API commitment.
