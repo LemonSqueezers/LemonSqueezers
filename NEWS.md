@@ -2,6 +2,23 @@
 1 Mar 2022                                                                                                              Issue #5
 
 
+Arti 0.1.0 Released!
+
+Tor's embed'able client in Rust. oday, Tor reached 0.1.0 milestone: this means that Tor now 
+considers Arti's high-level APIs to be "mostly stable", and ready for experimental embedding in other projects. 
+(Tor doesn't promise no API breakage, but Tor doesn't break your high-level APIs without a good reason.) The 1.0.0 milestone, 
+scheduled for September, will represent an even stronger API commitment.
+the primary new features are Tor's builder API for constructing TorClient instances, and the ability to create 
+unbootstrapped and bootstrap-on-demand TorClient instances. These features make it easier to create a "lazy" 
+TorClient that bootstraps itself in the background the first time it's used: Tor provided some example code to show you how.
+Tor has also replaced it's error APIs.  Previously, it exposed a huge mass of APIs from lower-level crates, and encouraged 
+dependencies on unstable lower-level error types. Now the error details are hidden, and there is instead an explicitly supported 
+ErrorKind type that programs can use to see what type of error occurred. (You can still access the low-level information by 
+enabling an optional trait, if you really want to.)
+
+Sources:
+https://blog.torproject.org/arti_010_released/
+----------------------------------------------------------------------------------------------------------------------------------
 LemonSqueezers celebrates International Pancake Day!
 
 Today is Pancake Day, where everyone celebrates the most delicious breakfast
