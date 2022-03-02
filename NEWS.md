@@ -19,6 +19,13 @@ enabling an optional trait, if you really want to.)
 Sources:
 https://blog.torproject.org/arti_010_released/
 ----------------------------------------------------------------------------------------------------------------------------------
+Anonymous leaks database of the Ministry of Economic Development of Russia
+
+The anonymous collective has leaked the Ministry of Economic Development of Russia's database.
+
+Sources:
+https://twitter.com/YourAnonOne/status/1498685800241934342?cxt=HHwWjMC9lfCys8wpAAAA
+----------------------------------------------------------------------------------------------------------------------------------
 LemonSqueezers celebrates International Pancake Day!
 
 1-3-22: Today is Pancake Day, where everyone celebrates the most delicious breakfast
