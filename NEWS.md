@@ -2,6 +2,20 @@
 3 Mar 2022                                                                                                              Issue #7
 
 
+New windows 11 build 22567
+
+Windows Update will try to schedule update installations at specific times of day when doing so results in lower 
+carbon emissions. Most electrical grids are powered by multiple sources, including renewables and fossil fuels. 
+Whenever possible, Windows 11 will now prioritize installing updates in the background at times when greater amounts of 
+clean energy sources (like wind, solar, and hydro) are available. Users can always choose to install updates immediately by 
+navigating to Settings > Windows Update and choosing “Check for Updates”.
+In October, Microsoft introduced subscription management within “Your Microsoft account” under Settings > Account. 
+This enabled you to view your OneDrive storage, recurring billing and sharing information as part of your
+Microsoft 365 subscription within Windows 11.
+Microsoft is introducing payment details within the subscription card experience. This will allow you to view your 
+payment information and be notified when your payment method needs to be updated, allowing you to continue your subscriptions 
+without any disruptions.
+----------------------------------------------------------------------------------------------------------------------------------
 Tor 11.5a5 released!
 
 3-3-22: This version includes important security updates to Firefox.
