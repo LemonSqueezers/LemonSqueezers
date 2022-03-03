@@ -15,6 +15,24 @@ Microsoft 365 subscription within Windows 11.
 Microsoft is introducing payment details within the subscription card experience. This will allow you to view your 
 payment information and be notified when your payment method needs to be updated, allowing you to continue your subscriptions 
 without any disruptions.
+You can now link your Android phone to your PC as part of the device setup (OOBE) for Windows 11. 
+Linking will give you instant access to everything on your phone, right from your PC. Without needing 
+to constantly swap your attention to your phone, you can use your favorite mobile apps, send text messages, 
+make calls, and more on your PC with the benefit of a full keyboard and mouse.
+Smart App Control (SAC) is a new security feature for Windows 11 that blocks untrusted or potentially dangerous 
+applications. SAC can only be enabled on Windows devices that have performed a clean install with the latest Insider 
+Preview build (Build 22567 and higher). SAC is first configured in evaluation mode. While SAC is in evaluation mode, 
+it will learn if it can help protect you without getting in your way too much. If so, it will automatically be turned 
+on. Otherwise, it will automatically be turned off.  While in evaluation mode, a user can manually turn on SAC in the 
+Windows Security app under the App & Browser Control section. More details on this feature will be shared in the future.
+Microsoft has also revamped the “Open with” dialog box to align with Windows 11 design principles. The updated 
+dialog box honors light/dark theme. We have also simplified the experience by making it possible to update your 
+default app with just one click.
+When you hover one pinned app icon over another, there will now be a small animation to hint that this will create a folder.
+Microsoft is updating multi-finger touch gestures to include responsive and delightful animations that follow your finger.
+
+Sources:
+https://blogs.windows.com/windows-insider/2022/03/02/announcing-windows-11-insider-preview-build-22567/
 ----------------------------------------------------------------------------------------------------------------------------------
 Tor 11.5a5 released!
 
