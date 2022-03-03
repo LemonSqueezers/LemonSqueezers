@@ -1,7 +1,18 @@
                                           The Lemon Squeezers Journal
-2 Mar 2022                                                                                                              Issue #6
+3 Mar 2022                                                                                                              Issue #7
 
 
+Tor 11.5a5 released!
+
+3-3-22: This version includes important security updates to Firefox.
+Tor Browser 11.5a5 updates Firefox to 96.3.0 and includes bugfixes and stability improvements. 
+Notably: Tor fixed a bug that was preventing users of Android Q and later from downloading files.
+Tor also used the opportunity to update various components of Tor Browser, bumping Tor to 0.4.7.4-alpha and 
+NoScript to 11.3.4, while switching to the latest version of Go (1.17.7) for building Tor's Go-related projects.
+
+Sources:
+https://blog.torproject.org/new-release-tor-browser-115a5/
+----------------------------------------------------------------------------------------------------------------------------------
 Arti 0.1.0 Released!
 
 2-3-22: Tor's embed'able client in Rust. today, Tor reached 0.1.0 milestone: this means that Tor now 
