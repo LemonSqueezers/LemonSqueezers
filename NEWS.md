@@ -314,7 +314,7 @@ Windows 11 area unresponsive bug
 in windows 11, sometimes, when you hover over the search box, a area of the screen
 is unresponsive to clicks. to fix this bug, you need to kill explorer by typing taskkill /f explorer.exe and 
 pressing enter. after that type start explorer and press enter again to execute the command.
-
+----------------------------------------------------------------------------------------------------------------------------------
 Archives: https://raw.githubusercontent.com/FrankEnderman/LemonSqueezers/main/LArchive.old
 use Tor: torproject.org/download
 
