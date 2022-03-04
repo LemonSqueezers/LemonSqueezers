@@ -319,7 +319,7 @@ Archives: https://raw.githubusercontent.com/FrankEnderman/LemonSqueezers/main/LA
 use Tor: torproject.org/download
 
 ----------------------------------------------------------------------------------------------------------------------------------
-(c) Copyright 2022, Spicycake
+(c) Copyright 2022, The Lemon Squeezer Foundation
 
 Copy any text on this website as long as you credit.
 
