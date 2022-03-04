@@ -2,6 +2,36 @@
 3 Mar 2022                                                                                                              Issue #7
 
 
+What is down there in the ocean?
+
+Smithsonian points out that even at 13,000 feet below the surface, where temperatures are 
+near freezing and there’s no sunlight, researchers have discovered living creatures such as fish, coral, crustaceans, jellyfish and worms.
+The ocean floor has the same general character as the land areas of the world: mountains, plains, channels, canyons, exposed rocks, and sediment-covered areas.
+
+Are there any cities at the bottom of the ocean?
+
+The remains of at least a dozen lost cities rest eerily at the bottom of the ocean near places like Greece, Japan, and India. 
+The sunken palace of Cleopatrais one of the most fabled underwater remnants of the ancient world. It was cast into the sea of when 
+an earthquake and a tsunami hit Alexandria, Egypt, more than 1,400 years ago.
+
+What happens if you die at the bottom of the ocean?
+
+Because it’s so cold, the person would experience severe hypothermia, and the body would eventually 
+stop working because of the cold temperature, but this is probably not what would kill them. (2) There’s no air. 
+You can’t breath at the bottom of the ocean. If you can’t breath, your body won’t stay alive for more than about 30 minutes.
+
+the mariana trench is 2,550 km (1,580 mi) in length and 69 km (43 mi) in width. The maximum known depth is 10,984 metres (36,037 ft)
+
+why is the ocean scary?
+
+That's right, a body of water that 39 percent of the American population lives within a mile of is the 
+most terrifying thing in existence. For starters, we've barely explored any of it. And the parts we actually have explored 
+are full of murderous monsters, diabolical natural forces, and otherworldly-seeming black holes. Yeah—black holes aren't solely relegated to space.
+remember, we have only explored 5% of it. that means the majority of the animals are still undiscovered.
+
+sources:
+https://www.sidmartinbio.org/what-could-we-find-at-the-bottom-of-the-ocean/
+----------------------------------------------------------------------------------------------------------------------------------
 New windows 11 build 22567
 
 Windows Update will try to schedule update installations at specific times of day when doing so results in lower 
