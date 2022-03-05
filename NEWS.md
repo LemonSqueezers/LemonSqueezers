@@ -2,6 +2,10 @@
 3 Mar 2022                                                                                                              Issue #7
 
 
+Russian servers targeted by Anonymous
+
+The hacker group anonymous said 11h ago that it will target servers in Russia.
+
 What is down there in the ocean?
 
 Smithsonian points out that even at 13,000 feet below the surface, where temperatures are 
