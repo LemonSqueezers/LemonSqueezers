@@ -2,9 +2,14 @@
 7 Mar 2022                                                                                                              Issue #8
 
 
+Why Cats Are Superior To Humans
 
+Cats are incredibly brilliant due to 90 percent of their brains being structurally similar to a human brain - more than dogs - which makes them better at solving complex 
+problems. Cats are also low maintenance, and less troublesome. When a cat falls out of a tree, there's no need to worry, for their legs were designed to absorb shock and help 
+in a graceful landing. The pitch and frequency of a cat's purrs are therapeutic and quicken the body's natural healing process, as well as decreasing the risk of suffering from 
+a stroke. Felines have always been important and glorified just as much as they are now, if not more.
+----------------------------------------------------------------------------------------------------------------------------------
 Samsung data leaked
-
 Samsung has allegedly suffered a major security breach, with hackers claiming to have leaked approximately 190 gigabytes of 
 data, including source code and biometric unlocking algorithms.
 
