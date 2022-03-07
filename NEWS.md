@@ -12,7 +12,7 @@ in a graceful landing. The pitch and frequency of a cat's purrs are therapeutic 
 process, as well as decreasing the risk of suffering from 
 a stroke. Felines have always been important and glorified just as much as they are now, if not more. So 
 man's  best fried is a feline- not dogs. but their lifespan takes a blow from this though. cats can
-live for 15 years but humans can for 79 years.
+live for 15 years but dogs can for 20 years and humans can for 79-122 years.
 
 Sources:
 https://www.thedodo.com/cats-are-basically-magic-1145480126.html
