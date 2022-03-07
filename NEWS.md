@@ -2,6 +2,7 @@
 7 Mar 2022                                                                                                              Issue #8
 
 
+
 Samsung data leaked
 
 Samsung has allegedly suffered a major security breach, with hackers claiming to have leaked approximately 190 gigabytes of 
