@@ -1,7 +1,111 @@
                                           The Lemon Squeezers Journal
-3 Mar 2022                                                                                                              Issue #7
+7 Mar 2022                                                                                                              Issue #8
 
 
+Samsung data leaked
+
+Samsung has allegedly suffered a major security breach, with hackers claiming to have leaked approximately 190 gigabytes of 
+data, including source code and biometric unlocking algorithms.
+
+On Friday, the Lapsus$ hacking group published a 190-gigabyte trove of confidential data that it claims to have seized from 
+Samsung Electronics. If genuine, the leak may be a big security problem for the Apple rival.
+
+The data leak was originally teased by the group on Friday as including a snapshot of C/C++ directives in Samsung software, reports 
+Bleeping Computer. The group then expanded on its description of the leak, saying it contained "confidential Samsung source code."
+
+The code in question was said to include the source for every Trusted Applet in Samsung's TrustZone environment, 
+which handles sensitive tasks such as hardware cryptography and access control. It also apparently includes biometric unlock operation algorithms, the bootloader 
+source for recent devices, activation server source code, and the full source code used to authenticate and authorize Samsung accounts.
+
+It is also thought to contain confidential source code originally from Qualcomm.
+
+While the group has distributed the data leak via torrents, it is unknown how much more data the group had accessed. It is 
+also unclear if the hackers attempted to secure a ransom from Samsung, though it did claim to demand one from Nvidia over a recent breach.
+
+Samsung officials told the Korea Herald the company is assessing the situation.
+
+The possible hacking incident is the latest of a number of recent issues for Samsung.
+
+On February 28, it was reported that the company had shipped at least 100 million Android smartphones with a security 
+flaw. The issue, relating to how cryptographic keys are stored in the TrustZone, could allow attackers to extract sensitive data from affected devices.
+
+Samsung is also dealing with a scandal over throttling, with software limiting the performance of over 10,000 apps, 
+but not benchmarking tools. Samsung says it is working on an update to address complaints. 
+
+The magnet link:
+
+magnet:?xt=urn:btih:2df266c276cb8581b47afa091cfce1bdad7c2e99&xt=urn:btmh:12201107555fe207323098968f281f4c795f0cb180d4af6f813465546165a9670
+aba&dn=Samsung&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=http%3a%2f%2f104.28.1.30%3a8080%2fannounce&tr=http%3a%2f%2
+f104.28.16.69%2fannounce&tr=udp%3a%2f%2f107.150.14.110%3a6969%2fannounce&tr=udp%3a%2f%2f109.121.134.121%3a1337%2fannounce&tr=udp%3a%
+2f%2f1
+14.55.113.60%3a6969%2fannounce&tr=http%3a%2f%2f125.227.35.196%3a6969%2fannounce&tr=udp%3a%2f%2f128.199.70.66%3a5944%2fannounce&tr
+=http%3a%2f%2f157.7.202.64%3a8080%2fannounce&tr=http%3a%2f%2f158.69.146.212%3a7777%2fannounce&tr=http%3a%2f%2f173.254.204.71%3a1096%2fannounce&tr=htt
+p%3a%2f%2f178.175.143.27%2fannounce&tr=udp%3a%2f%2f178.33.73.26%3a2710%2fannounce&tr=udp%3a%2f%2f182.176.139.129%3a6969%2f
+announce&tr=udp%3a%2f%2f185.5.97.139%3a8089%2fannounce&tr=udp%3a%2f%2f188.165.253.109%3a1337%2fannounce&tr=udp%3a%2f%2f194.106
+.216.222%3a80%2fannounce&tr=udp%3a%2f%2f195.123.209.37%3a1337%2fannounce&tr=http%3a%2f%2f210.244.71.25%3a6969%2fannounce&t
+r=http%3a%2f%2f210.244.71.26%3a6969%2fannounce&tr=http%3a%2f%2f213.159.215.198%3a6970%2fannounce&tr=udp%3a%2f%2f213.163.67.56%3a1337%2fanno
+unce&tr=http%3a%2f%2f37.19.5.139%3a6969%2fannounce&tr=udp%3a%2f%2f37.19.5.155%3a2710%2fannounce&tr=udp%3a%2f%2f46.4.10
+9.148%3a6969%2fannounce&tr=udp%3a%2f%2f5.79.249.77%3a6969%2fannounce&tr=udp%3a%2f%2f5.79.83.193%3a6969%2fannounce&tr=ud
+p%3a%2f%2f51.254.244.161%3a6969%2fannounce&tr=http%3a%2f%2f59.36.96.77%3a6969%2fannounce&tr=udp%3a%2f%2f74.82.52.209%3a69
+69%2fannounce&tr=http%3a%2f%2f80.246.243.18%3a6969%2fannounce&tr=http%3a%2f%2f81.200.2.231%2fannounce&tr=udp%3a%2f%2f85.17
+.19.180%3a80%2fannounce&tr=http%3a%2f%2f87.248.186.252%3a8080%2fannounce&tr=http%3a%2f%2f87.253.152.137%2fannounce&tr=http%
+3a%2f%2f91.216.110.47%2fannounce&tr=http%3a%2f%2f91.217.91.21%3a3218%2fannounce&tr=udp%3a%2f%2f91.218.230.81%3a6969%2fannounc
+e&tr=http%3a%2f%2f93.92.64.5%2fannounce&tr=http%3a%2f%2fatrack.pow7.com%2fannounce&tr=http%3a%2f%2fbt.henbt.com%3a2710%2fannoun
+ce&tr=http%3a%2f%2fbt.pusacg.org%3a8080%2fannounce&tr=http%3a%2f%2fbt2.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2fexp
+lodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a6969%2fannounce&tr=http%3a%2f
+%2fopen.acgtracker.com%3a1096%2f
+announce&tr=http%3a%2f%2fopen.lolicon.eu%3a7777%2fann
+ounce&tr=http%3a%2f%2fopen.touki.ru%2fannounce.php&tr=http%3a%2f%2fp4p.arenabg.ch%3a1337%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2f
+announce&tr=http%3a%2f%2fpow7.com%3a80%2fannounce&tr=http%3a%2f%2fretracker.gorcomnet.ru%2fannounce&tr=http%3a%2f%2fretracker.krs-ix.ru%2fann
+ounce&tr=http%3a%2f%2fretracker.krs-ix.ru%3a80%2fannounce&tr=http%3a%2f%2fsecure.pow7.com%2fannounce&tr=http%3a%2f%2ft1.pow7.com%2fannounce&tr
+=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2fthetracker.org%3a80%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr
+=http%3a%2f%2ftorrentsmd.com%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=http%3a%2f%2ftracker.baravik.org%
+3a6970%2fannounce&tr=udp%3a%2f%2ftracker.bittor.pw%3a1337%2fannounce&tr=http%3a%2f%2ftracker.bittorrent.am%2fannounce&tr=h
+ttp%3a%2f%2ftracker.calculate.ru%3a6969%2fannounce&tr=http%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.dutchtracking.com%2fa
+nnounce&tr=http%3a%2f%2ftracker.dutchtracking.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.dutchtracking
+.nl%2fannounce&tr=http%3a%2f%2ftracker.dutchtracking.nl%3a80%2fannounce&tr=http%3a%2f%2ftracker.edoardocolombo.eu%3a6969%2fanno
+unce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=http%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2ftracker.filetracker.pl%3a8
+089%2fannounce&tr=udp%3a%2f%2ftracker.flashtorrents.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.grepler.com%3a6969
+%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.kicks-ass.net%3a80%2fannounce&tr=http%3a%2f%2ftracker.kick
+s-ass.net
+%3a80%2fannounce&tr=udp%3a%2f%2ftracker.kuroy.me%3a5944%2fannounce&tr=udp%3a%2f%2ftracker.mg64.net%3a2710%2fannounce&tr=
+udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce&tr=http%3a%2f%2ftracker
+.tfil
+e.me%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tvunderground.org.ru%3a3218%2fannounce&tr=
+udp%3a%2f%2ftracker.yoshi210.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker2.
+itzmx.com%3a6961%2fannounce&tr=http%3a%2f%2ftracker2.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2fwww.wareztorrent.com%2fannounce&tr=
+http%3a%2f%2fwww.wareztorrent.com%3a80%2fannounce&tr=https%3a%2f%2f104.28.17.69%2fannounce&tr=https%3a%2f%2fwww.wareztorrent
+.com%2fannounce&tr=http%3a%2f%2f107.150.14.110%3a6969%2fannounce&tr=http%3a%2f%2f109.121.134.121%3a1337%2fannounce&tr=http%3a
+%2f%2f114.55.113.60%3a6969%2fannounce&tr=http%3a%2f%2f128.199.70.66%3a5944%2fannounce&tr=udp%3a%2f%2f151.80.120.114%3a2710%2fannounce
+&tr=udp%3a%2f%2f168.235.67.63%3a6969%2fannounce&tr=http%3a%2f%2f178.33.73.26%3a2710%2fannounce&tr=http%3a%2f%2f182.176.139.129%3a6969%2fannounce&t
+r=http%3a%2f%2f185.5.97.139%3a8089%2fannounce&tr=udp%3a%2f%2f185.86.149.205%3a1337%2fannounce&tr=http%3a%2f%2f188.165.253.109%3a1337%2fannounce&tr=
+udp%3a%2f%2f191.101.229.236%3a1337%2fannounce&tr=http%3a%2f%2f194.106.216.222%2fannounce&tr=http%3a%2f%2f195.123.209.37%3a1337%2fannounce&tr=udp%3
+a%2f%2f195.123.209.40%3a80%2fannounce&tr=udp%3a%2f%2f208.67.16.113%3a8000%2fannounce&tr=http%3a%2f%2f213.163.67.56%3a1337%2fannounce&tr=ht
+tp%3a%2f%2f37.19.5.155%3a6881%2fannounce&tr=http%3a%2f%2f46.4.109.148%3a6969%2fannounce&tr=http%3a%2f%2f5.79.249.77%3a6969%2fannounce&tr
+=http%3a%2f%2f5.79.83.193%3a2710%2fannounce&tr=http%3a%2f%2f51.254.244.161%3a6969%2fannounce&tr=udp%3a%2f%2f62.138.0.158%3a6969%2fannounce&
+tr=udp%3a%2f%2f62.212.85.66%3a2710%2fannounce&tr=http%3a%2f%2f74.82.52.209%3a6969%2fannou
+nce&tr=http%3a%2f%2f85.17.19.180%2fannounce&tr=udp%3a%2f%2f89.234.156.205%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%
+2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=http%3a%2f%2f91.218.230.81%3a
+6969%2fannounce&tr=udp%3a%2f%2f94.23.183.33%3a6969%2fannounce&tr=udp%3a%2f%2fbt.xxx-tracker.com%3a2710%2fannounce&tr=udp%3a%2f%2feddie4.nl
+%3a6969%2fannounce&tr
+=http%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a8
+0%2fannounce&tr=http%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fshadowshq.eddie4.nl%3a6969%2fannounce&tr=udp%3a%2
+f%2fshadowshq.yi.org%3a6969%2fannounce&tr=http%3a%2f%2ftorrent.gresille.org%2fannounce&tr=http%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fan
+nounce&tr=http%3a%2f%2ftracker.bittor.pw%3a1337%2fannounce&tr
+=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.eddie4.nl%3a6969%2fannou
+nce&tr=http%3a%2f%2ftracker.ex.ua%2fannounce&tr=http%3a%2f%2ftracker.filetracker.pl%3a8089%2fannounce&tr=http%3a%2f%2ftracker.flashtorrents.org%3a6969%2
+fannounce&tr=http%3a%2f%2ftracker.gr
+epler.com%3a6969%2f
+announce
+&tr=udp%3a%2f%2f
+tracker.ilibr.org%3a80%2fannounce&tr=http%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=http%3a%2f%2ftracker.kicks-ass.net%2fannounce
+&tr=http%3a%2f%2ftracker.kuroy.me%3a5944%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.mg64.
+net%3a6969%2fannounce&tr=http%3a%2f%2ftracker.mg64.net%3a6881%2fannounce&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.sktorrent.net%3a6969%2fannounce&tr=http%3a%2f%2ftrack
+er.skyts.net%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.yoshi210.com%3a6969%2fannounce
+&tr=udp%3a%2f%2ftracker2.indowebster.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.
+ch%3a1337%2fannounce&tr=udp%3a%2f%2fzer0day.to%3a1337%2fannounce
+----------------------------------------------------------------------------------------------------------------------------------
 Veloren breaks player count record after 0.12 update
 
 after the 0.12 update for veloren, there were 195 players at once when the launch party happened.
