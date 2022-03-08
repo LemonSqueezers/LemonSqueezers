@@ -2,6 +2,14 @@
 7 Mar 2022                                                                                                              Issue #8
 
 
+Anonymous hacks Russian TV and streaming services
+
+The hacker group anonymous hacked hacked into the Russian streaming services Wink and Ivi (like Netflix) and
+live TV channels Russia 24, Channel One, Moscow 24 to broadcast war footage from Ukraine on March 6.
+
+Sources:
+https://twitter.com/YourAnonNews/status/1500613013510008836?cxt=HHwWiMC9-bnln9MpAAAA
+----------------------------------------------------------------------------------------------------------------------------------
 Why Cats Are Superior Than dogs
 
 Cats are incredibly brilliant due to 90 percent of their brains being structurally similar to a human brain - more than dogs - which 
