@@ -2,6 +2,19 @@
 7 Mar 2022                                                                                                              Issue #8
 
 
+New Tor Version: 11.0.7!
+
+The Tor Project has released a new Tor Browser version, 11.0.7.
+this version includes important security updates for firefox:
+Removing an XSLT parameter during processing could have lead to an exploitable use-after-free. (CVE-2022-26485)
+An unexpected message in the WebGPU IPC framework could lead to a use-after-free and 
+exploitable sandbox escape. (CVE-2022-26486)
+Tor also updated various other components of Tor Browser: Tor 0.4.6.10, NoScript 11.3.7.
+Tor also switched to the latest Go version (1.16.14) for building our Go-related projects.
+
+Sources:
+https://blog.torproject.org/new-release-tor-browser-1107/
+----------------------------------------------------------------------------------------------------------------------------------
 Anonymous hacks Russian TV and streaming services
 
 The hacker group anonymous hacked hacked into the Russian streaming services Wink and Ivi (like Netflix) and
