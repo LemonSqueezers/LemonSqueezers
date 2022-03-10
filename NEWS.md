@@ -2,6 +2,29 @@
 7 Mar 2022                                                                                                              Issue #8
 
 
+Windows users may need to be more careful after NVIDIA hack
+
+NVIDIA's Certificates used to identify official software has been leaked by Lapsus$.
+As reported by BleepingComputer, the compromised signing certificates expired in 2014 and 2018, respectively. 
+However, Windows still enables drivers to be authorized with these certificates. As a result, malware can be masked 
+by them in order to appear trustworthy, subsequently paving the way for harmful drivers to be opened in a Windows PC without being detected.
+Certain variations of malware that were signed with the aforementioned Nvidia certificates were discovered on 
+VirusTotal, a malware scanning service. The samples that were uploaded found that they were being used to sign hacking 
+tools and malware, including Cobalt Strike Beacon, Mimikatz, backdoors, and remote access trojans.
+One individual was able to use one of the certificates to sign a Quasar remote access trojan. In another case, a Windows driver was signed by a 
+certificate, which resulted in 26 security vendors flagging the file as malicious as of the time of this writing. 
+David Weston, director of enterprise and OS security at Microsoft, commented on the situation on Twitter. He stated that an admin 
+will be able to configure Windows Defender Application Control (WDAC) policies in order to manage which specific Nvidia driver can 
+be loaded onto the system. However, as BleepingComputer points out, being familiar with implementing WDAC is not a common trait among the average Windows user.
+So what does this all actually mean for Windows users? In a nutshell, those who create malware can target individuals with malicious 
+drivers that can’t be easily detected. They typically spread such files through Google via fake driver download websites. With this 
+in mind, don’t download any drivers from suspicious and untrustworthy websites. Instead, download them directly from Nvidia’s official website moving 
+forward. Microsoft, meanwhile, is likely working on revoking the certificates in question and don't let your Grandma, Grandpa and/or kids on 
+your device unless you want FREE_ROBUX_NOT_VIRUS_LEGIT.exe on your computer
+
+Sources:
+https://www.digitaltrends.com/computing/hackers-are-using-stolen-nvidia-certificates-to-hide-malware/
+----------------------------------------------------------------------------------------------------------------------------------
 New Windows 11 build 22572
 
 A new Windows 11 build is coming to the Dev channel!
