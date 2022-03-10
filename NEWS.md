@@ -2,6 +2,38 @@
 7 Mar 2022                                                                                                              Issue #8
 
 
+New Windows 11 build 22572
+
+A new Windows 11 build is coming to the Dev channel!
+The Microsoft Family app will only be an inbox app on the Windows 11 Home edition and will be updated via the Microsoft Store. 
+Windows Insiders who are on Windows 11 Pro can go to Settings > Accounts > Family and download the Microsoft Family app from the Store.
+Microsoft also added clipchamp.
+Clipchamp is Microsoft's new video editor focused on making video creation easy, fast, and fun. Clipchamp is equipped with all the basic tools 
+you’d expect, like trimming and splitting, as well as more pro-style features like transitions and animated text. For real-time content capture, 
+there are also built-in webcam and screen recorders. It is also a inbox app now
+Starting early next week, Microsoft will begin rolling out an update for Search in Windows 11 that highlights interesting moments 
+in time. Search is right there on your taskbar—your window to discover what’s trending online, in the world, and in your organization. 
+Of course, you can still type to start searching for your apps, files, settings, and quick answers on the web.
+The search box in Start and Search will periodically update with content, including fun illustrations, that help you 
+discover more, be connected, and stay productive. These hints in the search box give you a sneak peek into what to expect in search home.
+Search highlights will present notable and interesting moments—like holidays, anniversaries, and other educational moments in time both 
+globally and in your region. You’ll find rich, bold content in search home that highlights what’s special about today.
+To dig deeper, you can explore additional content in search home related to today’s moment and daily content like word of the day,
+Microsoft Rewards offers, trending searches, and more. Each day features something different to learn about! The left side of 
+search home also shows an extended list of your recently launched apps, files, settings, and websites to help you get back to what you were doing last.
+The new Print Queue has an updated design to align with Windows 11 design principles, allow you to easily identify your desired print job, 
+see the status, and manage it. The feature is designed with simplicity in mind, and to allow you better access to your print jobs. To get 
+started, just click print and watch the Print Queue pop up.
+Building off the Focus changes announced in Build 22557, we have updated the icon for Notification Center when do not disturb is set to on.
+Shift + Right-clicking in File Explorer and the Desktop will now open the “Show more options” context menu.
+WMIC is now available as an optional feature that can be uninstalled or reinstalled via Settings > Apps > Optional Features.
+The legacy version of Windows Media Player available in Windows Tools has been renamed to Windows Media Player Legacy.
+Addressed an issue which was causing some Insiders to see a bugcheck with a CRITICAL_PROCESS_DIED error in the previous build 
+while attempting to do various things including logging in, opening Outlook, and accessing network shares in File Explorer.
+
+Sources:
+https://blogs.windows.com/windows-insider/2022/03/09/announcing-windows-11-insider-preview-build-22572/
+----------------------------------------------------------------------------------------------------------------------------------
 New Tor Version: 11.0.7!
 
 The Tor Project has released a new Tor Browser version, 11.0.7.
