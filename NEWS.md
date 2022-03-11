@@ -1,7 +1,11 @@
                                           The Lemon Squeezers Journal
-7 Mar 2022                                                                                                              Issue #8
+11 Mar 2022                                                                                                              Issue #9
 
+New Tor Browser release 11.5a7
 
+Tor bumped NoScript to 11.3.7, while switching to the latest version of Go (1.17.8) for building Tor's Go-related projects.
+the security update ported fixes for Mozilla security advisory mfsa2022-09 to Android
+----------------------------------------------------------------------------------------------------------------------------------
 Windows users may need to be more careful after NVIDIA hack
 
 NVIDIA's Certificates used to identify official software has been leaked by Lapsus$.
@@ -99,31 +103,23 @@ Poatato: most of the stuff
 Spcycake: corrections
 ----------------------------------------------------------------------------------------------------------------------------------
 Samsung data leaked
+
 Samsung has allegedly suffered a major security breach, with hackers claiming to have leaked approximately 190 gigabytes of 
 data, including source code and biometric unlocking algorithms.
-
 On Friday, the Lapsus$ hacking group published a 190-gigabyte trove of confidential data that it claims to have seized from 
 Samsung Electronics. If genuine, the leak may be a big security problem for the Apple rival.
-
 The data leak was originally teased by the group on Friday as including a snapshot of C/C++ directives in Samsung software, reports 
 Bleeping Computer. The group then expanded on its description of the leak, saying it contained "confidential Samsung source code."
-
 The code in question was said to include the source for every Trusted Applet in Samsung's TrustZone environment, 
 which handles sensitive tasks such as hardware cryptography and access control. It also apparently includes biometric unlock operation algorithms, the bootloader 
 source for recent devices, activation server source code, and the full source code used to authenticate and authorize Samsung accounts.
-
 It is also thought to contain confidential source code originally from Qualcomm.
-
 While the group has distributed the data leak via torrents, it is unknown how much more data the group had accessed. It is 
 also unclear if the hackers attempted to secure a ransom from Samsung, though it did claim to demand one from Nvidia over a recent breach.
-
 Samsung officials told the Korea Herald the company is assessing the situation.
-
 The possible hacking incident is the latest of a number of recent issues for Samsung.
-
 On February 28, it was reported that the company had shipped at least 100 million Android smartphones with a security 
 flaw. The issue, relating to how cryptographic keys are stored in the TrustZone, could allow attackers to extract sensitive data from affected devices.
-
 Samsung is also dealing with a scandal over throttling, with software limiting the performance of over 10,000 apps, 
 but not benchmarking tools. Samsung says it is working on an update to address complaints. 
 
