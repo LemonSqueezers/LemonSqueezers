@@ -1,10 +1,68 @@
                                           The Lemon Squeezers Journal
 11 Mar 2022                                                                                                              Issue #9
 
+
+Dread V3 is here!
+the dark web forum, Dread is back online. The update, Dread V3, includes some of the most significant changes in Dread’s history. 
+The most obvious and perhaps most welcome
+changes include new captchas. The developers of Dread–HugBunter, Paris, and whoever else–reworked the 
+site’s search function to include a full-text index of Dread’s 2+ million posts, suggestions, fuzziness adjustments, 
+and various search operations. Dread V3 provides several avenues through which Dread can generate income, including a premium 
+membership and a shop with trophies. Upvoting or downvoting a post or comment no longer refreshes the page. Fully analyzed 
+text search of over the 2 million public posts and comments on Dread.
+With this search layer there is quite a few features that you will be familiar with already if you have used any 
+advanced search engine. All results are indexed in lowercase which means it doesn’t matter if you type in “MDMA” 
+or “mdma” they will show the same results. If you want a specific phrase in the result you put them in quotes 
+(“texting example”). If you want multiple specific words to be included but not in a certain order you can do
+something like (“texting” “example”). If you want the root of the word to be search and synonyms to be searched 
+with them you simply search without quotes and separate word with spaces (testing will also turn up results with just test).
+There are self adjusting suggestions. If you accidentally type in “mdna” you will see a single suggestion which is 
+based on the frequency of a word within the index. It will identify the closest match for simple typos but it will 
+not correct multiple word phases or provide synonym suggestions like other search engines on the dark web.
+It is a never ending battle to control bots on Dread. As everyone hopes we made well clear we would rather 
+die than pay any asshole to stop spamming. There is only so much a bot master can do being that we control 
+the whole site. There is many different things we do to prevent bots. We took that up to 11 this time. 
+It personally doesn’t make sense to me why they would waste their time with us but that’s that. 
+Within your account area there is a referral link system now. When registration is locked down you can refer 
+others to dread. Dread, and dread’s search, will always be free to browse if you don’t want to register an account. 
+We will not stop the information flow to those who don’t want to take the time to solve the captcha.
+Dread’s new captcha is finally here. We tried multiple revisions of the regular captcha but they are all broken by 
+machine learning. A machine is better at classifying these objects than regular humans. The new one uses a 
+combination of human intention, fancy css, and basically unlimited unsorted images. The goal, make the photos 
+straight like it was you on the ground taking a photo. You do this by pressing the rotate button to a point 
+which changes the orientation of the image. DO NOT OVERSHOOT IT, reset and try again if you do so. Rotate 
+just enough to stabilize the orientation. There are some images which are impossible to know the orientation 
+of. Answer them anyway and as more people fail them these images the system will be clean them up. As new 
+images are added every day there will always be some of these images. It’s a trade off to prevent bots from 
+taking control. When this one does get broken we have another one lined up and one after that one as well. 
+Like before as your account gets more activity and you have viewed more things (in an order which a human 
+would do) captchas should disappear for your user account within 2 weeks of use. The more captchas you 
+solve correctly (and incorrectly) after a certain point will give the system enough confidence to just 
+not show your captchas anymore. 
+
+Sources:
+www.darknetlive.com
+----------------------------------------------------------------------------------------------------------------------------------
+Man arrested for Amphetamine purchase
+
+The Styria State Police Directorate announced the arrest of a 28-year-old man from Fürstenfeld, Styria, for allegedly ordering 
+amphetamine and ecstasy on the darkweb. The investigation began on February 9, 2022, when Customs officers in Vienna intercepted
+a suspicious package.The package was allegedly addressed to the suspect. Authorities opened the package and reportedly discovered 
+unspecified quantities of amphetamine and ecstasy. On March 8, the Fürstenfeld Police Inspectorate executed a 
+search warrant at the suspect’s home. The search resulted in the seizure of 75 LSD tabs, 110 grams of cannabis, six cannabis plants, 
+cannabis oil, and growing equipment.
+The 28-year-old “did not confess,” according to the police. He is currently in police custody.
+
+Sources:
+www.darknetlive.com
+----------------------------------------------------------------------------------------------------------------------------------
 New Tor Browser release 11.5a7
 
 Tor bumped NoScript to 11.3.7, while switching to the latest version of Go (1.17.8) for building Tor's Go-related projects.
 the security update ported fixes for Mozilla security advisory mfsa2022-09 to Android
+
+Sources:
+torproject.org
 ----------------------------------------------------------------------------------------------------------------------------------
 Windows users may need to be more careful after NVIDIA hack
 
