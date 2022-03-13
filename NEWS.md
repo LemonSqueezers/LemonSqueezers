@@ -2,31 +2,36 @@
 11 Mar 2022                                                                                                              Issue #9
 
 Why Did The Pringles Mascot Change?
-The original Mr. P has had six makeovers since the brand's launching, although this rebrand marks the first change in 20 years in the UK. 
 
-Pringles brand design director Pete Matthews says that retaining this “iconic look and feel” was fundamental in the refresh. Mathews also adds that “The intention with the new 
-look is to simplify and modernize the design, giving the brand’s mascot a bold makeover and highlighting the stickability of the crisps across the range.”
-
-One of the most perceptible changes to the logo is Mr. P’s hair loss. However, Pringles says that “at 54 years old, he is still looking as handsome as ever” and that the 
-makeover is Mr. P’s “boldest look yet”.
+The original Mr. P has had six makeovers since the brand's launching, although this rebrand marks the first change in 20 
+years in the UK. Pringles brand design director Pete Matthews says that retaining this “iconic look and feel” was fundamental 
+in the refresh. Mathews also adds that “The intention with the new look is to simplify and modernize the design, giving the 
+brand’s mascot a bold makeover and highlighting the stickability of the crisps across the range.”
+One of the most perceptible changes to the logo is Mr. P’s hair loss. However, Pringles says that “at 54 years old, he is 
+still looking as handsome as ever” and that the makeover is Mr. P’s “boldest look yet”.
 
 Source: https://www.designweek.co.uk/issues/20-26-september-2021/pringles-rebrand/#:~:text=%E2%80%9CThe%20intention%20with%20the%20new,P%27s%20hair%20loss 
 ----------------------------------------------------------------------------------------------------------------------------------
 A Brief History of Music And Its Influence On The Human Mind
-Humans used different noises and sounds to express their emotions like fear or joy. These sounds, along with some of the sounds they heard from animals, such as birds’ 
-chirping, might have led them to make music.
-When people began to use tools, for instance to pound grains, they may have done so in a rhythm, or a regular pattern. These sounds might have led them to make other pleasing 
-rhythms with the first percussion instruments.
 
-Music has a powerful impact on human beings. It can boost memory, build task endurance, lighten your mood, reduce anxiety and depression, stave off fatigue, improve your 
-response to pain, and help you work out more effectively.
+Humans used different noises and sounds to express their emotions like fear or joy. These sounds, along with some of the sounds 
+they heard from animals, such as birds’ 
+chirping, might have led them to make music.
+When people began to use tools, for instance to pound grains, they may have done so in a rhythm, or a regular pattern. 
+These sounds might have led them to make other pleasing 
+rhythms with the first percussion instruments.
+Music has a powerful impact on human beings. It can boost memory, build task endurance, lighten your mood, reduce anxiety and 
+depression, stave off fatigue, improve your response to pain, and help you work out more effectively.
 Working with a music therapist is one effective way to take advantage of the many benefits that music can have on your body, mind, and overall health. 
 
-Sources: https://www.healthline.com/health/benefits-of-music#takeaway ; https://nieonline.com/coloradonie/downloads/minipage/MP09_180307_co.pdf 
+Sources: 
+https://www.healthline.com/health/benefits-of-music#takeaway 
+https://nieonline.com/coloradonie/downloads/minipage/MP09_180307_co.pdf 
 Credits: 
 Idea: Silke from Discord
 ----------------------------------------------------------------------------------------------------------------------------------
 Dread V3 is here!
+
 the dark web forum, Dread is back online. The update, Dread V3, includes some of the most significant changes in Dread’s history. 
 The most obvious and perhaps most welcome
 changes include new captchas. The developers of Dread–HugBunter, Paris, and whoever else–reworked the 
