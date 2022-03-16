@@ -1,6 +1,12 @@
                                           The Lemon Squeezers Journal
-11 Mar 2022                                                                                                              Issue #9
+16 Mar 2022                                                                                                              Issue #10
 
+
+Anonymous sends spam messages
+
+The Anonymous collective has sent 7.000.000 anti-war texts to Russian cell phone users to tell them the truth 
+about Putin's invasion of Ukraine.
+----------------------------------------------------------------------------------------------------------------------------------
 Why Did The Pringles Mascot Change?
 
 The original Mr. P has had six makeovers since the brand's launching, although this rebrand marks the first change in 20 
