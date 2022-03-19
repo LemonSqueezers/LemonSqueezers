@@ -2,6 +2,12 @@
 16 Mar 2022                                                                                                              Issue #10
 
 
+Tor 11.0.9 Release
+
+This releases fixes bug tor-browser#40802 which caused some users to be unable to access client authorized onion services.
+OpenSSL got updated to 1.1.1n. Tor switched to the latest Go version (1.17.8) for building our Go-related projects.
+Overall this update is pretty small.
+----------------------------------------------------------------------------------------------------------------------------------
 Anonymous sends spam messages
 
 The Anonymous collective has sent 7.000.000 anti-war texts to Russian cell phone users to tell them the truth 
