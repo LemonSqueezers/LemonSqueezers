@@ -2,6 +2,32 @@
 16 Mar 2022                                                                                                              Issue #10
 
 
+UK Dark web drug dealer sent to jail for selling Xanax pills
+
+A member of a “global darkweb organized crime group” has been sentenced to nine years in prison 
+for shipping kilograms of drugs to buyers around the globe.
+
+Mubinar Rahman, 26, mailed more than 104 packages of MDMA to global destinations as a part of an organized 
+darkweb drug trafficking operation, according to the National Crime Agency (NCA). The defendant pleaded 
+guilty at Newcastle Crown Court in October 2020 to trafficking drugs and possession of Class A drugs with intent to supply.
+Between June 29, 2020, and July 27, 2020, the NCA and Border Force intercepted 39 packages shipped by Rahman. he had 
+addressed the packages to buyers in the UK, United States, Israel, Norway, Thailand, Hong Kong, and elsewhere. The 
+investigation resulted in seizures of 90 kilograms of MDMA, 134 kilograms of amphetamine, and more than 6,000 
+Valium and Xanax pills. In total, the value of the drugs shipped by Rahman was $1,036,025 (or 6,590,367 CNY/59,694,066 INR).
+“Today’s sentencing is the result of our agencies’ exemplary collaboration to hold criminals on the dark web accountable 
+for illegally selling and shipping narcotics overseas and putting countless individuals in danger.
+We will continue to work together to keep drugs off our streets and our communities safe.” says the US 
+Homeland Security Investigations. 
+The investigation involved cooperation with the United States Homeland Security Investigations (HSI).
+On 28 July 2020, NCA officers watched Rahman park his 2010 BMW outside a house associated with the drug trafficking 
+operation. Officers arrested Rahman after he had returned to his car. During a search of the BMW, officers found 
+ten packages addressed to international customers. A subsequent search of the house resulted in the discovery of 
+25 kilograms of MDMA, 134 kilograms of amphetamine sulfate, packaging equipment, and other materials often used by drug 
+traffickers.
+
+Sources:
+https://darknetlive.com/post/uk-darkweb-drug-trafficker-sentenced-to-prison/
+----------------------------------------------------------------------------------------------------------------------------------
 The Dark Web is smaller than you think
 
 even with the media buzz about the dark web, it is a small community!
