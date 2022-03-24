@@ -4,7 +4,27 @@ Happy b'day Dan!
 16 Mar 2022                                                                                                              Issue #10
 
 
+Oxy dealer gets arrested
 
+A man from Akron, Ohio, was sentenced to 62 months in prison for attempting to possess and distribute 
+counterfeit oxycodone pills.Acting U.S. Attorney Michelle M. Baeppler 
+announced that Thomas Anthony Walker, Jr., 36, of Akron, Ohio, will be 
+spending 62 months in prison for attempted possession with intent to distribute fentanyl. Walker pleaded guilty to the charge 
+in November 2021. 
+Postal Inspector Marc Kudley, while working at the USPS Processing & Distribution Center in Akron, Ohio, identified a 
+USPS Priority Mail Express package as “a suspect drug parcel based on several characteristics, including but not limited 
+to the type of mail, origin, destination, and size.”
+The Postal Inspector described the package as “a brown USPS Ready Post Mailing Carton with “Seal It. Sent It.” 
+tape over the top and bottom seams.” The package measured 15” X 12” X 10”, weighed about five pounds, and bore $111.40 in U.S. 
+Postage. Inspector Kudley searched CLEAR for information about the person who had mailed the package and the intended 
+recipient. The return address did not exist. The recipient’s name, “T. Lewis,” was also fake. CLEAR reported that Walker, 
+who had a previous conviction for heroin possession, lived at the address listed on the package.
+After a very complicated failed delivery, he got arrested.
+A very common type of arrest.
+
+Sources
+https://darknetlive.com/post/counterfeit-oxy-dealer-sentenced-to-prison-in-ohio/
+----------------------------------------------------------------------------------------------------------------------------------
 UK Dark web drug dealer sent to jail for selling Xanax pills
 
 A member of a “global darkweb organized crime group” has been sentenced to nine years in prison 
