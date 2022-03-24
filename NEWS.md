@@ -1,5 +1,8 @@
-                                          The Lemon Squeezers Journal
+Happy b'day Dan!
+----------------------------------------------------------------------------------------------------------------------------------
+                                                  The Lemon Squeezers Journal
 16 Mar 2022                                                                                                              Issue #10
+
 
 
 UK Dark web drug dealer sent to jail for selling Xanax pills
