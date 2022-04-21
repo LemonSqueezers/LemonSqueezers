@@ -2,6 +2,17 @@
 16 Mar 2022                                                                                                              Issue #10
 
 
+Exploring ContiLeaks
+
+21-4-22: they wrote about "writing off azim and smelanets". I cannot understand
+but maybe you do. then cybergangster wrote hey. they said "Who merged, it turned out? \ NKAK think, rebel?"
+they then ask about the latest news. they say about being more active. This may mean the Conti gang
+may cause more havoc soon.
+
+Source:
+@ContiLeaks on twitter
+Translated with Google Translate
+----------------------------------------------------------------------------------------------------------------------------------
 Discord's Underage problem
 
 21-4-22: Even if discord does not allow people under 13, children manage to get in.
