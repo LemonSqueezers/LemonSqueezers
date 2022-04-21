@@ -2,6 +2,19 @@
 16 Mar 2022                                                                                                              Issue #10
 
 
+Discord's Underage problem
+
+21-4-22: Even if discord does not allow people under 13, children manage to get in.
+A case of a 10 year old joining a roblox discord server:
+https://p23.zdusercontent.com/attachment/678183/0lTIFp6EWtGJaDOSdLweZgVjr?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..UxOpm0smKrYL3VcbuPfUdA.6QzHSEZDWeY4t5BOc7NpeDDxIMvmpZlEr27CEizlcPxLX2clnDUJEpjYSnrfxqHJYSjQ1KDTKp67WD-uiuFASBnSLChbhP8M1gvUKbvwbs-bD6vjb_cJesjLCgn8CSLRZ9ljKGoEmMAMsvAuxJXQPqDDcuhAYuB-zC-KXJdQjpoq6Xqlpv7d5jwIZm6t6-XfqewuqRmHfFUc7whsBriR8d-C4LouMkQHIspBltuoGifx3EBq2xvQrYmHTxW0yjUKUcePVnF_RI_5Ar3QOWbC6iLBKJUbbH6NUi7AXhdyMpQ.498pexH3GWomZ-O7hbHYsg
+The child is very toxic/annoying. After that, he/she starts complaining
+https://p23.zdusercontent.com/attachment/678183/3Hjc36ApDag7BtwmpOfOBYMWm?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..89ygPvSJPiAXOejmA_RXiA.bFCzm2IsYmkTH1dPaJenkxudp6oVtGtV2Et23kkHawLzwFY9bQDqU3UoDxhZ7EGAJlJ7E2H_n0Q9DdHl9tdHyqCEKFqXjjWV-g4tzOZqVzGvgySRurcJ0XNSCi_Mgj5PZFL-JgPmpJQYhheRJpR2fz90ZASsSpb13DiBDZHG6DbJLJmdc_vTgT_OOZozGI8CN1DO46dMN3FJT6RttCnY9uMTWIRpaEXBcov84ejuI1N7qd7UqHdlJwQiKTfL5F8UfjX2lQMxeagpfSugI8LqIAYAfn_r862ZX-Ddfc8YhKI.r3nqDPgqyBmrgOhSNznpFg
+Conclusion: Discord's kids are toxic and should be banned immediately
+to protect them from bad people
+
+Source:
+Lemonsqueezer Original
+----------------------------------------------------------------------------------------------------------------------------------
 Oxy dealer gets arrested
 
 A man from Akron, Ohio, was sentenced to 62 months in prison for attempting to possess and distribute 
