@@ -1,7 +1,15 @@
                                                   The Lemon Squeezers Journal
-16 Mar 2022                                                                                                              Issue #10
+13 May 2022                                                                                                              Issue #10
 
 
+Alert for L2Etina and Cyberghost VPN users
+
+13-5-22: 5 hours ago, a user of Dread said that "Those who were using above server, his/her data is in market now for sale".
+he further said that "Indian people who use either VPNs should question their privacy".
+
+Sources:
+Dread (I will not cite the user to protect their anonymity)
+----------------------------------------------------------------------------------------------------------------------------------
 Exploring ContiLeaks
 
 21-4-22: they wrote about "writing off azim and smelanets". I cannot understand
