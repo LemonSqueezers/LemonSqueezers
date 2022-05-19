@@ -2,6 +2,16 @@
 13 May 2022                                                                                                              Issue #10
 
 
+Tor browser 11.0.12
+
+Another Tor version!
+This version solves the startup crash that many users reported: https://gitlab.torproject.org/tpo/applications/fenix/-/issues/40212.
+Tor also updated GeckoView to 96.0.3, NoScript 11.4.5 and OpenSSL 1.1.1o. switch to Go 1.17.9, too, for building our Go-related projects.
+this is a minor update.
+
+Sources:
+https://blog.torproject.org/new-release-tor-browser-11012/
+----------------------------------------------------------------------------------------------------------------------------------
 Alert for L2Etina and Cyberghost VPN users
 
 13-5-22: 5 hours ago, a user of Dread said that "Those who were using above server, his/her data is in market now for sale".
