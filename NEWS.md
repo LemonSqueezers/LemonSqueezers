@@ -4,7 +4,7 @@
 
 Fraudster Arrested
 
-https://web.archive.org/web/20220517194056/http://www.miami24k.com/ a fake gift card dealer named Richard
+19-5-22: https://web.archive.org/web/20220517194056/http://www.miami24k.com/ a fake gift card dealer named Richard
 Verret got arrested in Orlando Airport.
 
 Sources:
@@ -12,17 +12,17 @@ http://darknetlive.com/post/europol-got-your-ass-verret/
 ----------------------------------------------------------------------------------------------------------------------------------
 Versus Market hacked, /admin directory accessible
 
-Versus market, probably the worst market ever, got hacked by a exploit published by u/ThreeSixty on dread. 
+19-5-22: Versus market, probably the worst market ever, got hacked by a exploit published by u/ThreeSixty on dread. 
 360 said "A security driven market wouldn't let the user running the market system access /home/admin with backup 
 files such as /home/admin/backup/versus.sql." At the moment LemonSqueezers could not get a response.
 This article will be updated
 
 Sources:
 ThreeSixty on Dread Forum
-
+----------------------------------------------------------------------------------------------------------------------------------
 Tor browser 11.0.12
 
-Another Tor version!
+19-5-22: Another Tor version!
 This version solves the startup crash that many users reported: https://gitlab.torproject.org/tpo/applications/fenix/-/issues/40212.
 Tor also updated GeckoView to 96.0.3, NoScript 11.4.5 and OpenSSL 1.1.1o. switch to Go 1.17.9, too, for building our Go-related projects.
 this is a minor update.
