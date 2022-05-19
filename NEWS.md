@@ -2,6 +2,24 @@
 13 May 2022                                                                                                              Issue #10
 
 
+Fraudster Arrested
+
+https://web.archive.org/web/20220517194056/http://www.miami24k.com/ a fake gift card dealer named Richard
+Verret got arrested in Orlando Airport.
+
+Sources:
+http://darknetlive.com/post/europol-got-your-ass-verret/
+----------------------------------------------------------------------------------------------------------------------------------
+Versus Market hacked, /admin directory accessible
+
+Versus market, probably the worst market ever, got hacked by a exploit published by u/ThreeSixty on dread. 
+360 said "A security driven market wouldn't let the user running the market system access /home/admin with backup 
+files such as /home/admin/backup/versus.sql." At the moment LemonSqueezers could not get a response.
+This article will be updated
+
+Sources:
+ThreeSixty on Dread Forum
+
 Tor browser 11.0.12
 
 Another Tor version!
