@@ -2,6 +2,15 @@
 13 May 2022                                                                                                              Issue #10
 
 
+Internet Explorer's peak
+
+On 26 August 2002 , Internet Explorer reached a market share of 95.97% . That means 9/10 computers have IE [1].
+Then suddenly Firefox and Chrome overtook IE in February 2013 [2].
+
+Source:
+https://web.archive.org/web/20070211143254/http://www.websidestory.com/company/news-events/press-releases/view-release.html?id=1044&year=2002
+http://www.getclicky.com/marketshare/global/web-browsers/
+----------------------------------------------------------------------------------------------------------------------------------
 Fraudster Arrested
 
 19-5-22: https://web.archive.org/web/20220517194056/http://www.miami24k.com/ a fake gift card dealer named Richard
