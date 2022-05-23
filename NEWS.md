@@ -2,6 +2,17 @@
 13 May 2022                                                                                                              Issue #10
 
 
+Monetize?
+
+So, from 25 May on, you can email me at buttertheidiot@gmail.com if you want to add a advert.
+It would have to be paid in bitcoin at the address:
+bc1q4jvgw6v4dyyt8z6wly8pzgmkz7sywd5tpqjxgq
+Ads will not be shown at the front page, will be in the middle or end of the page.
+the reason we're doing this is that... we ran out of cash (seriously!) 
+
+End of page- 0.75 rupees (25% discount!)
+Middle of page- 1 rupee (25% discount!)
+----------------------------------------------------------------------------------------------------------------------------------
 Internet Explorer's peak
 
 On 26 August 2002 , Internet Explorer reached a market share of 95.97% . That means 9/10 computers have IE [1].
