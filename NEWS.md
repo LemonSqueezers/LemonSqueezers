@@ -9,6 +9,7 @@ It would have to be paid in bitcoin at the address:
 bc1q4jvgw6v4dyyt8z6wly8pzgmkz7sywd5tpqjxgq
 Ads will not be shown at the front page, will be in the middle or end of the page.
 the reason we're doing this is that... we ran out of cash (seriously!) 
+(edit: you can buy some other stuff too, email me!)
 
 End of page- 0.75 rupees (25% discount!)
 Middle of page- 1 rupee (25% discount!)
