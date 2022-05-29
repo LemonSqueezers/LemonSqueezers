@@ -1,7 +1,28 @@
-                                                  The Lemon Squeezers Journal
+                                                  The Lemon Squeezer Journal
 13 May 2022                                                                                                              Issue #10
 
 
+PSA: Update firefox & Tor now!
+
+There is a vulnerability that allows for sandbox escape. All platforms and versions are affected.
+All products relying on firefox (eg. thunderbird, Tor and librewolf) are affected.
+----------------------------------------------------------------------------------------------------------------------------------
+Tor's GsoC projects
+
+29-5-22: Tor made a new project for the GsoC. This project will bring back Tor Weather. It is an email notification 
+service that relay operators can subscribe to and choose which notifications they want to receive about their relay.
+The second is OONI Detecting port based blocking. This project is about researching and developing new network 
+experiments to be integrated inside the OONI Probe CLI. The contributor will write network measurements code and 
+unit/integration tests for OONI's measurement engine.
+The third is OONI Explorer. This project will improve OONI Explorer. Specifically improvements on the OONI Explorer 
+country pages to enrich them with data coming from new experiments and make use of new backend API calls to display
+more rich information about blocking. Moreover this work will entail modernizing the code base, improving the user 
+interface, fixing usability issues, and writing more unit/integration tests.
+All the projects are great for DN users.
+
+sources:
+https://blog.torproject.org/2022-google-summer-of-code-projects/
+----------------------------------------------------------------------------------------------------------------------------------
 Monetize?
 
 So, from 25 May on, you can email me at buttertheidiot@gmail.com if you want to add a advert.
