@@ -2,6 +2,18 @@
 13 May 2022                                                                                                              Issue #10
 
 
+How much did MS earn this quarter?
+
+Revenue was $49.4 billion and increased 18%. Operating income was $20.4 billion and increased 19%
+Net income was $16.7 billion and increased 8% GAAP (up 13% non-GAAP)
+Office Commercial products and cloud services revenue increased 12% (up 14% CC) driven by Office 365 Commercial revenue growth of 17% (up 20% CC)
+Office Consumer products and cloud services revenue increased 11% (up 12% CC) and Microsoft 365 Consumer subscribers grew to 58.4 million
+LinkedIn revenue increased 34% (up 35% CC).  Windows Commercial products and cloud services revenue increased 14% (up 19% CC) 
+Billy is getting richer every second!
+
+Sources:
+https://www.microsoft.com/en-us/Investor/earnings/FY-2022-Q3/press-release-webcast
+----------------------------------------------------------------------------------------------------------------------------------
 PSA: Update firefox & Tor now!
 
 There is a vulnerability that allows for sandbox escape. All platforms and versions are affected.
