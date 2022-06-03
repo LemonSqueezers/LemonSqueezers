@@ -2,6 +2,17 @@
 13 May 2022                                                                                                              Issue #10
 
 
+New critical windows vulnerability
+
+3-6-22: The Protocol ms-msdt (microsoft diagnostics service) has a vulnerability that allows
+shortcuts, .docx and .rtf documents to execute powershell code. 
+In the VirusTotal sample (https://t.co/hTdAfHOUx3), cve-2017-0199 was used in addition to the new exploit. 
+the file packaged a known trojan inside. Unofficial patch from Lemon: https://anonfiles.com/Nbx3F1mdyf/Patch_bat
+
+Sources:
+https://twitter.com/strandjs/status/1531078232652623873
+https://msrc-blog.microsoft.com/2022/05/30/guidance-for-cve-2022-30190-microsoft-support-diagnostic-tool-vulnerability/
+----------------------------------------------------------------------------------------------------------------------------------
 How much did MS earn this quarter?
 
 Revenue was $49.4 billion and increased 18%. Operating income was $20.4 billion and increased 19%
