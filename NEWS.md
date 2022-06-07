@@ -2,6 +2,39 @@
 13 May 2022                                                                                                              Issue #10
 
 
+Accenture, Microsoft and Avanade expand partnership to help organizations tackle their 
+environmental issues
+
+NEW YORK, REDMOND, Wash. and SEATTLE; June 2, 2022 – Accenture (NYSE: ACN) and Microsoft, 
+together with their joint venture Avanade, are joining forces to tackle climate change, 
+one of the most critical and urgent challenges for both businesses, people and Earth. With an 
+immediate emphasis on delivering solutions to help organizations transform their operations, 
+products, services and value chains to help accelerate the transition to net zero emissions, the 
+three companies will expand their focus to broader environmental, 
+social and governance (ESG) challenges in the future.
+The companies are investing in the co-development of innovative solutions—architected 
+and designed at the onset to emit less carbon over their life cycle—and offering advisory 
+services to help businesses reduce carbon emissions, speed the transition to new energy sources, 
+and shrink or even eliminate waste of finite resources such as water, food and raw materials.
+With the powerful combination of Accenture Sustainability Services, Avanade’s human-centered 
+digital experience, the Microsoft Cloud and each company’s robust data and artificial intelligence 
+(AI) capabilities, the expanded strategic partnership will 
+address both horizontal and industry-specific sustainability challenges to help drive impact and 
+deliver new value.
+“Increasingly, as all stakeholders look to business to move from commitment to action on 
+environmental challenges, companies that embed sustainability across their enterprises 
+can become a powerful force for change,” said Julie Sweet, chair and chief executive officer of 
+Accenture. “Our partnership with Microsoft and Avanade will help organizations find new value at 
+the intersection of technology and sustainability – from embracing green software development 
+principles and sustainable cloud migrations, to digital twin technology adoption – to drive 
+stronger performance and competitiveness, and make progress on their decarbonization goals and their 
+journey to net zero.” Right now we are headed for a 1.5+ degree world, when humanity only dealt
+with < 0.9 degrees in the last 100,000 years. Just because you threw your plastic bag away
+instead of recycling!
+
+Sources:
+https://news.microsoft.com/2022/06/02/accenture-microsoft-and-avanade-expand-partnership-to-help-organizations-tackle-their-greatest-sustainability-challenges/
+----------------------------------------------------------------------------------------------------------------------------------
 New critical windows vulnerability
 
 3-6-22: The Protocol ms-msdt (microsoft diagnostics service) has a vulnerability that allows
