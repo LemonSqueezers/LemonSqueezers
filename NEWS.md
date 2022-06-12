@@ -1,5 +1,5 @@
-                                                  The Lemon Squeezer Journal
-13 May 2022                                                                                                              Issue #10
+                                                         The Lemon Times
+12 Jun 2022                                                                                                              Issue #11
 
 
 Accenture, Microsoft and Avanade expand partnership to help organizations tackle their 
