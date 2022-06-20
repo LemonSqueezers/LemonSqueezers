@@ -2,6 +2,12 @@
 12 Jun 2022                                                                                                              Issue #11
 
 
+How to still use IE (on Windows 11)
+
+20-6-22: First, search "find and fix network problems" then start the troubleshooting process.
+after that, click "view detailed information". Then click "detection details", click the .etl link.
+then IE will open. Enjoy your old nostalgia!
+----------------------------------------------------------------------------------------------------------------------------------
 Accenture, Microsoft and Avanade expand partnership to help organizations tackle their 
 environmental issues
 
