@@ -2,11 +2,23 @@
 12 Jun 2022                                                                                                              Issue #11
 
 
+Starting my own newsletter
+
+22-6-22: Starting on 25 June, 2022, I will start a new newsletter!
+If you want to get the first issue on launch day, please email me at buttertheidiot@gmail.com.
+It will launch at 2 PM Indian Standard Time. You can pick the topics you want:
+1. Tech 
+2. Travel (me travelling to places in NE India)
+3. Generic lifestyle (like Why do we burp)
+4. ALL (every category, recommended)
+Note: more categories will be added
+----------------------------------------------------------------------------------------------------------------------------------
 How to still use IE (on Windows 11)
 
 20-6-22: First, search "find and fix network problems" then start the troubleshooting process.
 after that, click "view detailed information". Then click "detection details", click the .etl link.
 then IE will open. Enjoy your old nostalgia!
+Edit, 22-6-22: I name it the "UIEAEOLSR" (Use Internet Explorer After End Of Life for Some Reason) or IERevive for short
 ----------------------------------------------------------------------------------------------------------------------------------
 Accenture, Microsoft and Avanade expand partnership to help organizations tackle their 
 environmental issues
