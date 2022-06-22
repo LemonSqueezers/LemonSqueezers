@@ -2,6 +2,17 @@
 12 Jun 2022                                                                                                              Issue #11
 
 
+Ask Reddit: What are some VERY comforting facts?
+
+(me reacting to the post)
+India's tiger population grew from 1,411 in 2006 to 2,967 tigers as per the 2018 census. 
+Based on the best available information, tiger populations are stable or increasing in 
+India, Nepal, Bhutan, Russia and China. But much more work is needed to protect this 
+species if we are to secure its future in the wild. Wow so great news
+
+Petting animals lowers cortisol. I love my pet now!!
+(to be expanded)
+----------------------------------------------------------------------------------------------------------------------------------
 Starting my own newsletter
 
 22-6-22: Starting on 25 June, 2022, I will start a new newsletter!
