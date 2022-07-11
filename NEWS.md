@@ -2,6 +2,10 @@
 12 Jun 2022                                                                                                              Issue #11
 
 
+Relaunch
+
+I am going to relaunch this site- all articles moved to ARCHIVE.md and some improvements
+----------------------------------------------------------------------------------------------------------------------------------
 Ask Reddit: What are some VERY comforting facts?
 
 (me reacting to the post)
