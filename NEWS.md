@@ -2,6 +2,11 @@
 12 Jun 2022                                                                                                              Issue #11
 
 
+Weather in NE India 
+
+NOTE: This article should remain #1 for at least 2 months
+16-7-22: 29 C with 36% humidity, scattered clouds and 60% chance of rain
+----------------------------------------------------------------------------------------------------------------------------------
 Relaunch
 
 I am going to relaunch this site- all articles moved to ARCHIVE.md and some improvements
