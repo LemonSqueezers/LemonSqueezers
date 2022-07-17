@@ -10,6 +10,15 @@ NOTE: This article should remain #1 for at least 2 months
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
+The wee/g/end code jam
+
+17-7-22: If you didn't know already, there is a code jam named "wee/g/end" on 4chan's /g/ board. 
+Here is all the submissions for the jam:
+- A minesweeper game in C
+- Snake in Lisp
+- Fibonacci number programs
+- online markup editor
+----------------------------------------------------------------------------------------------------------------------------------
 Relaunch
 
 I am going to relaunch this site- all articles moved to ARCHIVE.md and some improvements
