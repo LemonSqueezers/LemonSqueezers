@@ -5,7 +5,10 @@
 Weather in NE India 
 
 NOTE: This article should remain #1 for at least 2 months
+17-7-22: 30 C with 37% humidity, scattered thunderstorms, 65% chance of rain
 16-7-22: 29 C with 36% humidity, scattered clouds and 60% chance of rain
+
+
 ----------------------------------------------------------------------------------------------------------------------------------
 Relaunch
 
