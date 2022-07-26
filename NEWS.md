@@ -10,6 +10,14 @@ NOTE: This article should remain #1 for at least 2 months
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
+The August 13 Hardfork- Update your wallets guys!
+
+26-7-22: Due to a scheluled network upgrade, The official Monero wallet will hardfork- If you don't upgrade before August 13, 
+you cannot spend your monero until you update. The new versions increase the ring size to 16 among some other changes.
+
+Source:
+u\thotbot on Dread
+----------------------------------------------------------------------------------------------------------------------------------
 OpenSea NFT Market hacked
 
 26-7-22: The NFT market "opensea" has been hacked. Another lesson not to use NFTs. Also why can't i find another source
