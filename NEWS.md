@@ -10,6 +10,14 @@ NOTE: This article should remain #1 for at least 2 months
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
+OpenSea NFT Market hacked
+
+26-7-22: The NFT market "opensea" has been hacked. Another lesson not to use NFTs. Also why can't i find another source
+for this story? 
+
+Sources:
+ericcarlone on Dread. 
+----------------------------------------------------------------------------------------------------------------------------------
 The wee/g/end code jam
 
 17-7-22: If you didn't know already, there is a code jam named "wee/g/end" on 4chan's /g/ board. 
