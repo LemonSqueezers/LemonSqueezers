@@ -2,6 +2,13 @@
 12 Jun 2022                                                                                                              Issue #11
 
 
+BREAKING: Internet shutdown in manipur
+
+Internet has been shutdown for 5 days due to communal tension. In this time, LemonSqueezers will not make more articles
+
+Source:
+https://twitter.com/ANI/status/1556085333544284162
+----------------------------------------------------------------------------------------------------------------------------------
 Weather in NE India 
 
 NOTE: This article should remain #1 for at least 2 months
