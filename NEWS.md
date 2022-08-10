@@ -4,8 +4,8 @@
 
 BREAKING: Internet shutdown in manipur
 
-Internet has been shutdown for 5 days due to communal tension. In this time, LemonSqueezers will not make more articles
-
+Mobile Internet has been shutdown for 5 days due to communal tension.
+EDIT 10-8-22: Mobile internet was restored today
 Source:
 https://twitter.com/ANI/status/1556085333544284162
 ----------------------------------------------------------------------------------------------------------------------------------
