@@ -2,6 +2,14 @@
 12 Jun 2022                                                                                                              Issue #11
 
 
+Reddit vulnerability
+
+11-8-22: Because of a vuln in Reddit's Apple sign-in, A one-click 
+account hijack is possible.
+
+Source:
+https://hackerone.com/reports/1567186
+----------------------------------------------------------------------------------------------------------------------------------
 BREAKING: Internet shutdown in manipur
 
 Mobile Internet has been shutdown for 5 days due to communal tension.
