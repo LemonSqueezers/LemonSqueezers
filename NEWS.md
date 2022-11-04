@@ -1,7 +1,11 @@
                                                          The Lemon Times
-12 Jun 2022                                                                                                              Issue #11
+4 Nov 2022                                                                                                              Issue #11
 
 
+Lemonsqueezers:
+
+Where nothing can go wrong!
+----------------------------------------------------------------------------------------------------------------------------------
 Reddit vulnerability
 
 11-8-22: Because of a vuln in Reddit's Apple sign-in, A one-click 
